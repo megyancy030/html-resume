@@ -1,0 +1,52 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+h1{color: #987554;
+			font-size: 3em;
+			text-align: center;
+			font-family:"Montserrat", sans-serif;
+			text-transform: uppercase;
+			letter-spacing: 20px;
+		}
+
+
+.description {text-align: center;
+			text-transform: lowercase;
+			font-size:.5em;
+			color:#662449;
+			letter-spacing:5px;
+		}
+
+
+img { display: block;
+		 	margin-left: auto;
+		 	margin-right: auto;
+		  	width: 60%;
+		  	border-radius: 10px;
+		}
+
+
+h2{ text-transform: uppercase;
+			color:#987554;
+			font-family: "Montserrat", sans-serif;
+
+		}
+
+
+body{ background-color: #e9dac6;
+			text-align: center;
+		}
+
+
+
+ul { list-style-image: url('bulletstar.png');
+			list-style-position: inside;
+		}
+
+
+a:link, a:visited {text-decoration: underline;
+			color:#662449;
+		}
+
+
+a:hover {color:#ca1f7b;
+
+		}
